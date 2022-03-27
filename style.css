@@ -1,0 +1,25 @@
+body{
+
+    background-size:cover;
+    background-position: center;
+
+}
+
+.tag{
+
+   background-color: blue;
+   color: white;
+   border-radius: 10px;
+   width: 35%;
+   height: 30%;
+   font-size: 23px;
+
+}
+
+.heading{
+
+    width: 100%;
+    font-size: 23px;
+    margin-top: 0px;
+
+}
